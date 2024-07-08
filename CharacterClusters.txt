@@ -1,0 +1,2247 @@
+Cluster 0:
+Cartoon                 Character  Cluster
+    762                     mouse        0
+    693        mouse riding a dog        0
+    129                     robot        0
+    217                    monkey        0
+     66                     mouse        0
+      1 person in a mouse costume        0
+      1                      mice        0
+    523                    monkey        0
+    523                    monkey        0
+    558                       toy        0
+    667                     mouse        0
+    640      mouse riding the cat        0
+    640                     mouse        0
+    640                     mouse        0
+    375                     mouse        0
+    708                     robot        0
+    749                    rabbit        0
+    342                     mouse        0
+    196                     mouse        0
+    196                     mouse        0
+    204                       rat        0
+    398                     snake        0
+    730           mouse scientist        0
+    120     anthropomorphic mouse        0
+     79               small robot        0
+    398                     snake        0
+    377                       rat        0
+    730     anthropomorphic mouse        0
+    120     anthropomorphic mouse        0
+    371                     mouse        0
+    701                     mouse        0
+     65                     robot        0
+    582                    monkey        0
+    557                     snake        0
+    110                     robot        0
+    556                     robot        0
+    167                     mouse        0
+
+Cluster 1:
+Cartoon                                        Character  Cluster
+    373                                      businessman        1
+    373                                    businesswoman        1
+     47                                      businessman        1
+    324                      businessman with ram's head        1
+    324                                      businessman        1
+    324                                      businessman        1
+    762                                      businessman        1
+    762                                    businesswoman        1
+    627                                      businessman        1
+    522                                      businessman        1
+    575                                      businessmen        1
+    758                                      businessman        1
+    534                    businessman holding clipboard        1
+    534                      businessman carrying a fish        1
+    534                                      businessman        1
+    113                                      businessman        1
+    447                                      businessman        1
+    369                                      businessman        1
+     26                                      businessman        1
+    484                                      businessman        1
+    742                                      businessman        1
+    312                          businessman with a tail        1
+    353                                      businessman        1
+     30                                      businessman        1
+    169                                      businessman        1
+     31                                      businessman        1
+    217                                      businessman        1
+    352                                    businesswoman        1
+    201                                      businessman        1
+    344                                    businesswoman        1
+    344                                      businessmen        1
+    344                                      businessman        1
+     27                     businessman reading document        1
+     27                                      businessman        1
+     27                                    businesswoman        1
+     27                                      businessman        1
+    692                                      businessman        1
+    411                                      businessman        1
+    153               businessman with outstretched arms        1
+    153                              businessman at desk        1
+    153                             businessman standing        1
+    446                                      businessman        1
+    446                                      businessman        1
+    450                              businessman sitting        1
+    450                              businessman walking        1
+    450                             businessman standing        1
+    450                              businessman sitting        1
+    427                                      businessman        1
+    431                         businessman with glasses        1
+    431                                    businesswoman        1
+    431                                      businessman        1
+     93                     businessman at head of table        1
+    466                                   businesspeople        1
+    173                                      businessman        1
+    221                                      businessman        1
+    333                                      businessman        1
+     11                                      businessman        1
+    372                                      businessman        1
+    237                       businessman with briefcase        1
+    237                                      businessman        1
+    237                  businessman with thought bubble        1
+    545                                      businessman        1
+    545                                    businesswoman        1
+    400                                      businessman        1
+    400                                      businessman        1
+    142                                      businessman        1
+    142                                      businessman        1
+    457                                      businessman        1
+    504                                    businesswoman        1
+    154                          businessman with an axe        1
+    154                          businessman with papers        1
+    154             businessman with a fire extinguisher        1
+    154                           businessman looking on        1
+    553                                      businessman        1
+    314                                      businessman        1
+    569                              businessman jumping        1
+    569                                      businessman        1
+    569                                    businesswoman        1
+    569                                      businessman        1
+    210                                      businessman        1
+     36                                      businessman        1
+    549                                    businesswoman        1
+    549                                    businesswoman        1
+    621                                      businessman        1
+    363                                      businessman        1
+    733                                      businessman        1
+    733                                      businessman        1
+     57                                      businessman        1
+    318                                      businessman        1
+    359                         businessman with glasses        1
+    359                                      businessman        1
+    359                      businessman with blank face        1
+    359                        businessman with document        1
+    709                                    businesswoman        1
+    420                                   businessperson        1
+    498                                      businessman        1
+    498                                      businessman        1
+    533                                      businessman        1
+    533                                      businessman        1
+    564                                      businessman        1
+     95                                      businessman        1
+    525                                      businessman        1
+    227                                    businesswoman        1
+    159                                      businessman        1
+    159                                      businessman        1
+    266                              businessman walking        1
+    266                       businessman with briefcase        1
+    266                            businessman crouching        1
+    246                                      businessman        1
+    616 businessman with a puppet or ventriloquist dummy        1
+    495                                      businessman        1
+    495                             businessman standing        1
+    495                              businessman sitting        1
+    495                 businessman with glasses sitting        1
+    138                                      businessman        1
+    315                                      businessmen        1
+    196                                      businessman        1
+    339                                      businessman        1
+    155                                      businessman        1
+    143                          businessman with papers        1
+    143                             businessman pointing        1
+    513                         businessman with glasses        1
+    513                     businessman with eyes closed        1
+    513                        businessman looking ahead        1
+    513                                    businesswoman        1
+    728                                   businessperson        1
+    544                                      businessman        1
+    584                                      businessmen        1
+    584                                    businesswoman        1
+    204                                      businessman        1
+     75                                      businessman        1
+     75                                      businessman        1
+    592                                      businessman        1
+     22                  businessperson with back turned        1
+     22                      businessperson raising hand        1
+     22                      businessperson with hand up        1
+     22                                   businessperson        1
+     22                                   businessperson        1
+    195                                      businessman        1
+     59                                      businessman        1
+    101                                      businessman        1
+    564                                      businessman        1
+    156                                      businessman        1
+    475                                      businessman        1
+    619                                      businessman        1
+    249                        businessman with umbrella        1
+    137                                      businessman        1
+     79                                      businessman        1
+     79                                    businesswoman        1
+    176                                      businessman        1
+    224                                      businessmen        1
+    224                                    businesswomen        1
+     14                                      businessman        1
+     43                                      businessman        1
+    232                    businessman reading newspaper        1
+    233                                      businessman        1
+     42                                      businessman        1
+    634                                      businessman        1
+    458                                      businessman        1
+    622                                    businesswoman        1
+    622                                      businessman        1
+    360                                      businessman        1
+    177                                      businessman        1
+    120                                      businessman        1
+    136                                      businessman        1
+      5                                      businessman        1
+     39                                      businessman        1
+    161                                      businessman        1
+    474                                      businessman        1
+    474                                      businessman        1
+    680                                      businessman        1
+    638                                      businessman        1
+    507                    businessman with large pencil        1
+    157                                      businessman        1
+    550                                      businessman        1
+    696                                      businessman        1
+    194                                      businessman        1
+    156                                      businessman        1
+     18                                      businessman        1
+    510                                      businessman        1
+    475                                      businessman        1
+    249                                      businessman        1
+    137                                      businessman        1
+     79                                      businessman        1
+     79                                    businesswoman        1
+    224                                      businessman        1
+    224                                      businessman        1
+     14                                      businessman        1
+     14                                      businessman        1
+     43                                      businessman        1
+    232                      businessman looking forward        1
+    233                                      businessman        1
+     42                                      businessman        1
+    634                                   businessperson        1
+    458                                      businessman        1
+    622                                    businesswoman        1
+    622                                      businessman        1
+    360                                    businesswoman        1
+    177                                      businessman        1
+    462                                      businessman        1
+      5                                      businessman        1
+     39                                      businessman        1
+     39                                      businessman        1
+    161                                      businessman        1
+    474                                      businessman        1
+    474                                      businessman        1
+    680                                      businessman        1
+    638                                      businessman        1
+    507                   businessman with oversized pen        1
+    157                                      businessman        1
+    550                                      businessman        1
+    194                                      businessman        1
+     74                                      businessman        1
+    593                                      businessman        1
+      9                                      businessman        1
+      9                          businessman with a tail        1
+    497                                      businessman        1
+    244                                      businessman        1
+     86                                      businessman        1
+      2                                      businessman        1
+      2                                    businesswoman        1
+      2                                    businesswoman        1
+    432                                      businessman        1
+    170                    businessman with a coffee cup        1
+    170                    businessman holding a chicken        1
+    465                                      businessman        1
+    672                                      businessman        1
+    737                                      businessman        1
+    737                                      businessman        1
+    760                                      businessman        1
+    633                            businessman on stairs        1
+     32                           businessman in costume        1
+     32                                      businessman        1
+     32                                      businessman        1
+    214                                      businessman        1
+     65                                      businessman        1
+     65                                      businessman        1
+    428                                      businessman        1
+     73                                      businessman        1
+    384                                      businessman        1
+    146                                      businessman        1
+    516                  businessman with a mobile phone        1
+     49                                      businessman        1
+     49                         businessman with glasses        1
+    110                                      businessman        1
+    239                                    businesswoman        1
+    239                                      businessman        1
+    393                                      businessman        1
+    517                                      businessman        1
+    444                                      businessman        1
+    151                                      businessman        1
+    385                                      businessman        1
+     25                                      businessman        1
+    192                                      businessman        1
+    645                                      businessman        1
+    215                                 tiny businessman        1
+     33                                      businessman        1
+    491                                      businessman        1
+    242                                      businessman        1
+    612                                      businessman        1
+    370                                      businessman        1
+    448                                      businessman        1
+     29                                      businessman        1
+    521                                      businessman        1
+    425                                      businessman        1
+    472                        businessman with chainsaw        1
+    472                           businessman whispering        1
+
+Cluster 2:
+Cartoon          Character  Cluster
+    735     groom figurine        2
+    735     bride figurine        2
+    530            pageboy        2
+    662         bridesmaid        2
+    662          officiant        2
+    662              bride        2
+    662              groom        2
+    662          groomsman        2
+    639           princess        2
+    662         bridesmaid        2
+    662          officiant        2
+    662              bride        2
+    662              groom        2
+    662          groomsman        2
+    452 marriage counselor        2
+    757             couple        2
+    673           princess        2
+    258          officiant        2
+    258              groom        2
+    258              bride        2
+
+Cluster 3:
+Cartoon                             Character  Cluster
+    758                       man with beanie        3
+    758                        boy with a cap        3
+    685              bear wearing a party hat        3
+    387 person with a paper bag on their head        3
+    542                 gentleman with a cane        3
+    734                     man with a fedora        3
+     11                   man with cowboy hat        3
+    260                     person with a hat        3
+    247                       man with a cane        3
+     16                 man with hat and cane        3
+     16                          man with hat        3
+     16                       man holding hat        3
+    358                        mover with cap        3
+    572                     person with a hat        3
+    525                   man with peaked cap        3
+    698                        man with a hat        3
+    698                      man with a crown        3
+    661                       skater in a cap        3
+    568               man with bucket on head        3
+    440            baseball player with a hat        3
+    440         baseball player holding a bat        3
+    440       baseball player holding a glove        3
+    397            baseball player with a bat        3
+    397          baseball player with a glove        3
+    480                    man with a top hat        3
+    480              man in top hat with cane        3
+    480                   onlookers with hats        3
+    623                  man in captain's hat        3
+    623                   man with peaked cap        3
+    209                 man with rooster head        3
+    566                        man with a hat        3
+    383                  pedestrian with cane        3
+    383                   pedestrian with bag        3
+    510                    person with a cane        3
+    571                          man with cap        3
+    434                            boy in hat        3
+    623                          man with cap        3
+    623                          man with hat        3
+    659                    blender-headed man        3
+    209       walking man with a rooster head        3
+    435                     adult with a cane        3
+    566                    man with a top hat        3
+    383               pedestrian with a stick        3
+     49                  businessman with hat        3
+    413                     man in bowler hat        3
+     72                       man with a cane        3
+    167                          man with hat        3
+
+Cluster 4:
+Cartoon Character  Cluster
+    236     woman        4
+    631     woman        4
+    518     woman        4
+     10     woman        4
+    332     woman        4
+    627     woman        4
+    109     woman        4
+    109     woman        4
+    488     woman        4
+    719     woman        4
+     92     woman        4
+    543     woman        4
+    390     woman        4
+    105     woman        4
+    693     woman        4
+    484     woman        4
+    742     woman        4
+    579     woman        4
+    650     woman        4
+    703     woman        4
+    353     woman        4
+    353     woman        4
+    492     woman        4
+    168     woman        4
+    610     woman        4
+    755     woman        4
+    714     woman        4
+    597     woman        4
+    578     woman        4
+     70     woman        4
+    743     woman        4
+    387     woman        4
+    446     woman        4
+    391     woman        4
+    470     woman        4
+    132     woman        4
+    431     woman        4
+    574     woman        4
+    348     woman        4
+    523     woman        4
+    108     woman        4
+    364     woman        4
+    763     woman        4
+    276     woman        4
+    149     woman        4
+     11     woman        4
+     46     woman        4
+    722     woman        4
+    688     woman        4
+    379     woman        4
+    396     woman        4
+    512     woman        4
+    338     woman        4
+    292     woman        4
+    103     woman        4
+    553     woman        4
+    380     woman        4
+    601     woman        4
+    343     woman        4
+    713     woman        4
+    119     woman        4
+      6     woman        4
+    477     woman        4
+    476     woman        4
+    533     woman        4
+    421     woman        4
+     83     woman        4
+      7     woman        4
+    564     woman        4
+    358     woman        4
+    437     woman        4
+    749     woman        4
+     40     woman        4
+    231     woman        4
+    138     woman        4
+    568     woman        4
+    657     woman        4
+     21     woman        4
+    339     woman        4
+     34     woman        4
+    183     woman        4
+     63     woman        4
+    592     woman        4
+    746     woman        4
+    414     woman        4
+      7     woman        4
+      7     woman        4
+      7     woman        4
+    564     woman        4
+    358     woman        4
+      7     woman        4
+    156     woman        4
+    510     woman        4
+    681     woman        4
+     38     woman        4
+    160     woman        4
+    475     woman        4
+     96     woman        4
+    418     woman        4
+    731     woman        4
+    459     woman        4
+     14     woman        4
+    398     woman        4
+    232     woman        4
+    726     woman        4
+    376     woman        4
+    634     woman        4
+    321     woman        4
+     15     woman        4
+    360     woman        4
+    659     woman        4
+     78     woman        4
+    435     woman        4
+    566     woman        4
+    423     woman        4
+    248     woman        4
+     39     woman        4
+    696     woman        4
+    481     woman        4
+    747     woman        4
+    156     woman        4
+    681     woman        4
+     38     woman        4
+    160     woman        4
+     96     woman        4
+    418     woman        4
+    731     woman        4
+    623     woman        4
+    459     woman        4
+     14     woman        4
+    376     woman        4
+    634     woman        4
+    321     woman        4
+     15     woman        4
+    225     woman        4
+    675     woman        4
+    675     woman        4
+    659     woman        4
+     78     woman        4
+    423     woman        4
+    248     woman        4
+     39     woman        4
+     58     woman        4
+    696     woman        4
+    481     woman        4
+    747     woman        4
+    439     woman        4
+    356     woman        4
+    213     woman        4
+     35     woman        4
+    478     woman        4
+    751     woman        4
+    536     woman        4
+    473     woman        4
+    131     woman        4
+    424     woman        4
+    648     woman        4
+    577     woman        4
+    432     woman        4
+    520     woman        4
+    609     woman        4
+     53     woman        4
+    367     woman        4
+    737     woman        4
+     45     woman        4
+    428     woman        4
+    347     woman        4
+    202     woman        4
+    652     woman        4
+    594     woman        4
+    740     woman        4
+    310     woman        4
+    557     woman        4
+    445     woman        4
+    150     woman        4
+    687     woman        4
+     49     woman        4
+    541     woman        4
+    111     woman        4
+    405     woman        4
+    540     woman        4
+    669     woman        4
+    517     woman        4
+    192     woman        4
+    741     woman        4
+    311     woman        4
+    716     woman        4
+    653     woman        4
+    645     woman        4
+     33     woman        4
+    757     woman        4
+    370     woman        4
+    262     woman        4
+    327     woman        4
+     13     woman        4
+    223     woman        4
+     29     woman        4
+    521     woman        4
+    171     woman        4
+    126     woman        4
+    576     woman        4
+    433     woman        4
+    649     woman        4
+    130     woman        4
+    537     woman        4
+
+Cluster 5:
+Cartoon                    Character  Cluster
+    735                man in tuxedo        5
+    125                  man in suit        5
+    200     person in a bear costume        5
+    684  dinosaur in a business suit        5
+     93 person in a business meeting        5
+     93 person in a business meeting        5
+     11           man with briefcase        5
+    260           person with a coat        5
+    752 elderly man with a briefcase        5
+     16             man with bow tie        5
+    135        man in suit with bomb        5
+    135                  man in suit        5
+    135         man in casual attire        5
+    163                man at podium        5
+    354         man dressed as plant        5
+     34     person in a bear costume        5
+    357                  man in suit        5
+    199    man in uniform with badge        5
+    199  man in uniform with glasses        5
+    232                  man in suit        5
+    377                man in a robe        5
+    618                  man in suit        5
+    619                  man in suit        5
+    619                  man in suit        5
+    727                   man in tie        5
+    229       man standing at podium        5
+    690                cat in a suit        5
+    583           man with briefcase        5
+    274                man in a coat        5
+    219                 men in suits        5
+    167                man at podium        5
+
+Cluster 6:
+Cartoon                  Character  Cluster
+    133      caveman holding stick        6
+    133           caveman pointing        6
+    133 caveman with hands on hips        6
+    133           standing caveman        6
+    133   two conversing cavewomen        6
+    308                    caveman        6
+    308                  cavewoman        6
+    755                    caveman        6
+    108                    caveman        6
+    671                    caveman        6
+    671                    caveman        6
+    333                    caveman        6
+    333                  cavewoman        6
+    457                    cavemen        6
+    676     caveman with a spatula        6
+    676                  cavewoman        6
+    676          two cave children        6
+    676                   cave dog        6
+    402         prehistoric person        6
+    475                    caveman        6
+     54                    caveman        6
+     54                    caveman        6
+    462 caveman in modern clothing        6
+    462       caveman with a spear        6
+    462           standing caveman        6
+    462         conversing cavemen        6
+    475                    caveman        6
+     54                    caveman        6
+     54                    caveman        6
+    462       caveman with a spear        6
+    462 caveman with hands on hips        6
+    462 caveman with hands crossed        6
+    462       caveman with a stick        6
+     69                    caveman        6
+     73                  cavewoman        6
+    238   caveman juggling torches        6
+    238                    caveman        6
+    238                    caveman        6
+    392                    caveman        6
+    604            prehistoric man        6
+    720                    caveman        6
+    599                    caveman        6
+    599                  cavewoman        6
+    560                    caveman        6
+
+Cluster 7:
+Cartoon Character  Cluster
+    109       man        7
+    488       man        7
+    719       man        7
+     92       man        7
+    426       man        7
+    164       man        7
+    543       man        7
+    390       man        7
+    105       man        7
+    739       man        7
+    693       man        7
+    579       man        7
+    538       man        7
+    492       man        7
+    168       man        7
+    702       man        7
+    714       man        7
+    578       man        7
+    128       man        7
+    190       man        7
+    329       man        7
+    145       man        7
+    515       man        7
+    684       man        7
+    470       man        7
+    431       man        7
+    574       man        7
+    718       man        7
+    348       man        7
+    523       man        7
+    763       man        7
+    276       man        7
+     46       man        7
+    722       man        7
+    103       man        7
+    695       man        7
+    380       man        7
+    601       man        7
+     77       man        7
+    343       man        7
+    586       man        7
+     61       man        7
+    119       man        7
+    637       man        7
+    271       man        7
+    174       man        7
+    477       man        7
+    533       man        7
+    421       man        7
+     83       man        7
+    358       man        7
+    708       man        7
+    437       man        7
+    175       man        7
+    677       man        7
+    753       man        7
+    529       man        7
+    417       man        7
+    339       man        7
+    505       man        7
+    456       man        7
+    183       man        7
+     63       man        7
+    438       man        7
+      7       man        7
+    358       man        7
+    510       man        7
+    681       man        7
+     38       man        7
+    160       man        7
+     96       man        7
+    418       man        7
+    674       man        7
+    361       man        7
+    459       man        7
+    635       man        7
+    663       man        7
+    321       man        7
+     15       man        7
+    360       man        7
+    177       man        7
+     78       man        7
+    570       man        7
+    566       man        7
+    248       man        7
+    546       man        7
+    511       man        7
+    481       man        7
+    747       man        7
+     38       man        7
+    160       man        7
+     96       man        7
+    176       man        7
+    418       man        7
+    674       man        7
+    459       man        7
+    635       man        7
+     43       man        7
+    663       man        7
+    634       man        7
+    321       man        7
+     15       man        7
+    675       man        7
+    177       man        7
+     78       man        7
+    120       man        7
+    570       man        7
+    618       man        7
+    248       man        7
+    546       man        7
+    454       man        7
+    511       man        7
+     58       man        7
+    696       man        7
+    481       man        7
+    747       man        7
+    205       man        7
+    356       man        7
+    213       man        7
+     35       man        7
+    478       man        7
+    751       man        7
+    751       man        7
+    473       man        7
+    131       man        7
+    424       man        7
+    577       man        7
+    609       man        7
+     53       man        7
+    367       man        7
+     12       man        7
+     45       man        7
+    613       man        7
+    428       man        7
+    347       man        7
+    717       man        7
+    202       man        7
+    652       man        7
+    594       man        7
+    740       man        7
+    310       man        7
+    310       man        7
+    557       man        7
+    445       man        7
+    687       man        7
+    404       man        7
+     49       man        7
+    111       man        7
+    669       man        7
+    452       man        7
+    556       man        7
+    741       man        7
+    311       man        7
+    716       man        7
+    653       man        7
+    429       man        7
+    645       man        7
+    757       man        7
+    757       man        7
+    370       man        7
+     44       man        7
+    632       man        7
+    327       man        7
+    389       man        7
+    433       man        7
+    130       man        7
+
+Cluster 8:
+Cartoon                     Character  Cluster
+    723                sound engineer        8
+    689                police officer        8
+    148                police officer        8
+    627                        waiter        8
+    365                       sheriff        8
+    365            motorcycle officer        8
+    719                   salesperson        8
+    349                         diner        8
+     84                       janitor        8
+    164                   firefighter        8
+    113                 cleaning lady        8
+    406                       plumber        8
+    200                 receptionist$        8
+    715                     bartender        8
+    580                         guard        8
+    703                        waiter        8
+    168                        waiter        8
+    754                   firefighter        8
+    702                        barber        8
+    352                 window washer        8
+    578                        waiter        8
+    606                         pilot        8
+    606                      co-pilot        8
+    738                 groundskeeper        8
+    104                police officer        8
+    554                     bartender        8
+    165              military officer        8
+    173                       janitor        8
+    221                       workman        8
+    688              military officer        8
+    372                 office worker        8
+    115                     bartender        8
+    729                         guard        8
+    512                  delivery boy        8
+    197                         pilot        8
+    178                     bartender        8
+    314                     bartender        8
+    713                police officer        8
+    586                vacuum cleaner        8
+    181           construction worker        8
+    247               delivery person        8
+    637                 groundskeeper        8
+    363                      employee        8
+    363                     secretary        8
+    318                 office worker        8
+    318                 office worker        8
+    461              airline employee        8
+    436                 office worker        8
+    573            medical technician        8
+    421                       barista        8
+    122                police officer        8
+    227                 window washer        8
+    266 construction worker on ladder        8
+    636           construction worker        8
+    548                         pilot        8
+    548                police officer        8
+    616                 office worker        8
+     37                court reporter        8
+    704                        waiter        8
+    342  complaints department worker        8
+    114                     lifeguard        8
+    479                    politician        8
+    654                        waiter        8
+    654                         diner        8
+    592                 office worker        8
+    603                         diner        8
+    603                 office worker        8
+    382                         pilot        8
+    228                       sheriff        8
+    414                      salesman        8
+    443           construction worker        8
+    506                   executioner        8
+    160             real estate agent        8
+    567                   news anchor        8
+    588                      gardener        8
+    121                police officer        8
+    121              security officer        8
+    571                        waiter        8
+    199                         juror        8
+    265                      mechanic        8
+    622                    grill cook        8
+    225                         pilot        8
+    225                      co-pilot        8
+    225              flight attendant        8
+    527                   firefighter        8
+    198                         pilot        8
+    198                      co-pilot        8
+    209                     bartender        8
+    209                        patron        8
+      5                  receptionist        8
+    589                         diner        8
+    589                        waiter        8
+    395                 chimney sweep        8
+    395                     homeowner        8
+    507         office worker at desk        8
+    229                      lecturer        8
+    506                   executioner        8
+    160             real estate agent        8
+    530                   executioner        8
+    475              limousine driver        8
+    567              newscaster on tv        8
+    121                police officer        8
+    121                factory worker        8
+    199               police officers        8
+    199                court reporter        8
+    265                      mechanic        8
+    398                     homeowner        8
+    225                         pilot        8
+    225                      co-pilot        8
+    527                   firefighter        8
+    198                         pilot        8
+    198                      co-pilot        8
+    209                     bartender        8
+    209                        patron        8
+      5                  receptionist        8
+    589                         diner        8
+    589                        waiter        8
+    507         office worker at desk        8
+    497               train conductor        8
+     86          construction workers        8
+    388             medical assistant        8
+    275                 court officer        8
+    760                  receptionist        8
+    760                       janitor        8
+    740                    saleswoman        8
+    445                  car salesman        8
+     49                     bartender        8
+    405                       butcher        8
+    628                     bartender        8
+    385                police officer        8
+    487                     bartender        8
+    346                    politician        8
+    583                  receptionist        8
+    491                     lifeguard        8
+    184                     bartender        8
+    184                        patron        8
+    242                     lifeguard        8
+    612           construction worker        8
+    612                police officer        8
+    274                     bartender        8
+    366                        barber        8
+    366                        barber        8
+    171                      salesman        8
+     91                police officer        8
+     68                      mechanic        8
+     68           construction worker        8
+      3              hotline operator        8
+     87                 office worker        8
+    537                police officer        8
+
+Cluster 9:
+Cartoon                                     Character  Cluster
+    467                                bird in a cage        9
+    133                                  flying birds        9
+    216                             fairy with hammer        9
+    611                                        pigeon        9
+    251                                  flying birds        9
+    713                       various pieces of candy        9
+    334                                      suitcase        9
+     94                                    flying cow        9
+    437                                oversized bird        9
+    460                                        parrot        9
+    460                                        parrot        9
+    620                                  earth piñata        9
+    323                                       peacock        9
+    323                                     two birds        9
+    381                                   wheelbarrow        9
+    623                                          kite        9
+    623                                 packaged kite        9
+    623                                 elephant kite        9
+    623                                    small kite        9
+     23                                     butterfly        9
+    623                   flying elephant-shaped kite        9
+     23                                     butterfly        9
+    520                                   banana peel        9
+    737                             beanstalk climber        9
+    721                                    toy shovel        9
+    721                                    toy bucket        9
+    346                                  flying angel        9
+    632                              matryoshka dolls        9
+    331 only a depiction of a flying saucer and a car        9
+    576                                        cocoon        9
+
+Cluster 10:
+Cartoon             Character  Cluster
+    666             therapist       10
+    631                  chef       10
+    365             detective       10
+    220                doctor       10
+     51                lawyer       10
+     51                 judge       10
+    144          psychiatrist       10
+    386          veterinarian       10
+    742                  chef       10
+    129                doctor       10
+     71                doctor       10
+    345      medical examiner       10
+    353                 nurse       10
+    353                doctor       10
+     30                doctor       10
+     30             detective       10
+    610                  chef       10
+    651                doctor       10
+    165                  cook       10
+    165                  cook       10
+    535                driver       10
+      1             scientist       10
+    364             detective       10
+    416          psychologist       10
+    494         psychoanalyst       10
+    660                doctor       10
+    230                driver       10
+    748                  chef       10
+    565                doctor       10
+    533             scientist       10
+    122                 judge       10
+     56             scientist       10
+    732                lawyer       10
+    732                 judge       10
+    724                author       10
+    231                doctor       10
+     37                 judge       10
+     37              attorney       10
+    354                doctor       10
+    207                doctor       10
+     99                doctor       10
+    250                doctor       10
+    196             scientist       10
+    483             therapist       10
+    179                doctor       10
+    642                  chef       10
+    455             therapist       10
+    571                  chef       10
+    208                driver       10
+    199                lawyer       10
+    199                 judge       10
+    272                driver       10
+    730       human scientist       10
+    419                doctor       10
+    177                doctor       10
+    208                driver       10
+    199                lawyer       10
+    199                 judge       10
+    272                driver       10
+    360                  chef       10
+    419                doctor       10
+    602                doctor       10
+    602 doctor with clipboard       10
+    252             detective       10
+    189                doctor       10
+    388               surgeon       10
+    388                 nurse       10
+    388      anesthesiologist       10
+    275                 judge       10
+    275                lawyer       10
+    326          psychiatrist       10
+    408                doctor       10
+    664                 judge       10
+    664                lawyer       10
+    756          psychiatrist       10
+    613             scientist       10
+    255             counselor       10
+    107               teacher       10
+    110                 nurse       10
+    110                doctor       10
+    147                lawyer       10
+    147                 judge       10
+    106             scientist       10
+    700            pharmacist       10
+    612             detective       10
+    262          psychiatrist       10
+     29             scientist       10
+
+Cluster 11:
+Cartoon                 Character  Cluster
+    148                     devil       11
+    467                     birds       11
+    758                      tree       11
+    144                      fish       11
+    502                      tree       11
+    596                     witch       11
+    650                      lamp       11
+    187                     angel       11
+    240                      bird       11
+    692                    dragon       11
+    470                     ghost       11
+    759                      fish       11
+    562                      fish       11
+    562                      bird       11
+    519                     birds       11
+    441                      fish       11
+    103                      bird       11
+    251                     angel       11
+    314                      bird       11
+    590                    dragon       11
+     41                     witch       11
+    322                       ant       11
+    524                    dragon       11
+    174                      bird       11
+     94                     angel       11
+    532                     birds       11
+      7                      moon       11
+    564                       owl       11
+    437                      bird       11
+    509                      bear       11
+    509                      fish       11
+    620 angel with a baseball bat       11
+    620                     angel       11
+    118                     angel       11
+    587                      deer       11
+    483                     angel       11
+      8                      fish       11
+    746                      bird       11
+    316                      bird       11
+    551                      wave       11
+      7                      moon       11
+      7                      moon       11
+      7                      moon       11
+    639                    dragon       11
+    402                      deer       11
+    402                      deer       11
+    121                   flowers       11
+    526                     angel       11
+    570                     birds       11
+    136                      bird       11
+    680                      bear       11
+    454                     angel       11
+    141                     angel       11
+    141                     demon       11
+    442                     angel       11
+    442                     devil       11
+    639                    dragon       11
+    402                      deer       11
+    402                      deer       11
+    121                      ants       11
+    571                    anchor       11
+    526                     angel       11
+    176                      bird       11
+    570                     birds       11
+    680                      bear       11
+    454                     angel       11
+    141                     angel       11
+    141                     devil       11
+    442                     angel       11
+    442                     devil       11
+    585                     genie       11
+    127                      bird       11
+     12                      bird       11
+    668                    dragon       11
+    393                     witch       11
+    106                    plants       11
+    346                    angels       11
+    653                      bird       11
+    389                      fish       11
+    576                      tree       11
+    167                      bear       11
+    167                      bird       11
+    167                      frog       11
+
+Cluster 12:
+Cartoon                                                                                                    Character  Cluster
+    148                                                                                                       wizard       12
+    148                                                                                         native tribal person       12
+     51                                                                                                    defendant       12
+    172                                                                                                 smiling face       12
+    349                                                                                                     waitress       12
+    758                                                                                     person at lemonade stand       12
+    758                                                                                             person on stairs       12
+    758                                                                                                          car       12
+    502                                                                                                   two adults       12
+    607                                                                                              deceased person       12
+    345                                                                                              deceased person       12
+    580                                                                                                         king       12
+    186                                                                                                    followers       12
+    581                                                                                             religious figure       12
+    581                                                                                              hand with a pen       12
+    578                                                                                              group of people       12
+    738                                                                                                       aliens       12
+    153                                                                                    group of workers clapping       12
+    153                                                                                          observer at doorway       12
+    112                                                                there are no characters to list in this image       12
+    407                                                                                          adults in a sandbox       12
+    407                                                                                                    onlookers       12
+    165                                                                                                         king       12
+    309                                                                                             screaming person       12
+    309                                                                                                scared person       12
+    427                                                                                           blindfolded person       12
+    427                                                                                                zombie couple       12
+    489                                                                                                        sorry       12
+    489                                                                             i can't assist with that request       12
+    260                                                                                        person with a sweater       12
+    688                                                                                                       person       12
+    688                                                                                                       person       12
+    683                                                                                                person waving       12
+    683                                                                                              person standing       12
+    729                                                                                                         king       12
+    729                                                                                                        queen       12
+    528                                                                                                    presenter       12
+    528                                                                                             audience members       12
+    656                                                                                                       reader       12
+    617                                                                                           people watching tv       12
+    660                                                                                                         king       12
+    334                                                                                            annoyed passenger       12
+    699                                                                                      boy sitting on recliner       12
+    226                                                                                                 alien doctor       12
+    709                                                                                            distressed people       12
+     82                                                                                                        sorry       12
+     82                                                                             i can't provide that information       12
+    477                                                                                                          pen       12
+    134                                                                                          charging smartphone       12
+    134                                                                                          sleeping smartphone       12
+    358                                                                                          mover with overalls       12
+    572                                                                                                       person       12
+    572                                                                                              standing person       12
+    572                                                                                        person holding a ball       12
+    572                                                                                       person with a backpack       12
+    749                                                                                                    onlookers       12
+    732                                                                                         witness (teddy bear)       12
+    118                                                                                      angel in the background       12
+    374                                                                                                      speaker       12
+    374                                                                                              deceased person       12
+    374                                                                                                       guests       12
+    661                                                                                   skater with one leg lifted       12
+    661                                                                                    skater with hands on hips       12
+    180                                                                                  person wearing a skull mask       12
+    180                                                                                               person sitting       12
+    180                                                                                        person drinking water       12
+     37                                                                                                    defendant       12
+    211                                                                                                        alien       12
+    704                                                                                                    bystander       12
+    207                                                                                     patient with a long tail       12
+    600                                                                                                        alien       12
+    600                                                                                                        alien       12
+    417                                                                                    person at back of vehicle       12
+    682                                                                                             animated cookies       12
+    397                                                                                     personification of death       12
+    245                                                                                             person in a boat       12
+    496                                                                                                     neighbor       12
+    707                                                                                    person carrying the world       12
+    357                                                                                             crossword puzzle       12
+    642                                                                                                   pedestrian       12
+      8                                                                                               elderly person       12
+      8                                                                                          miniaturized person       12
+    711                                                                                                    spectator       12
+    603                                                                                                       diners       12
+    697                                                                                              barefoot person       12
+    551                                                                                    group of people in a boat       12
+    134                                                                                               charging robot       12
+    134                                                                                               sleeping robot       12
+     18                                                                        there are no characters in this image       12
+    117                                                                                                        sorry       12
+    117                                   i can't help with identifying or making assumptions about people in images       12
+    530                                                                                                         king       12
+    249                                                                                                       person       12
+    422                                                                                                pile of trash       12
+    434                                                                                                      tin man       12
+    434                                                                                                      dorothy       12
+    658                                                                                        gamer with headphones       12
+    658                                                                                 person sitting at a computer       12
+    658                                                                                    person on a rolling chair       12
+    658                                                                             person crouching with headphones       12
+    336                                                                                                    presenter       12
+    336                                                                                             person on screen       12
+    336                                                                                             audience members       12
+     14                                                                                                    mannequin       12
+    320                                                                                                castle towers       12
+    232                                                                                             person on laptop       12
+    377                                                                                      rat reading a newspaper       12
+    233                                                                                                     mobsters       12
+    337                                                                                                unfortunately       12
+    337                                                                            i cannot assist with that request       12
+    675                                                                                                    partygoer       12
+    675                                                                                                   partygoers       12
+    198                                                                                                   figurehead       12
+    659                                                                                        blender-headed figure       12
+    209                                                                                              standing patron       12
+    435                                                                                           baby in a stroller       12
+     39                                                                                                  focused man       12
+    116                                                                                                        alien       12
+    116                                                                                               cartoon editor       12
+    454                                                                                                       person       12
+     58                                                                                       adult reading to child       12
+     58                                                                                              adult listening       12
+    679                                                                                                         king       12
+    747                                                                                           person upside down       12
+    506                                                                                       person in a guillotine       12
+    510                                                                                            person lying down       12
+    510                                                                                               person sitting       12
+    510                                                                                                person eating       12
+    530                                                                                                         king       12
+    422                                                                                              pile of objects       12
+    434                                                                                                      tin man       12
+    658                                                                                        gamer with headphones       12
+    658                                                                                           person at computer       12
+    658                                                                          person in office chair with headset       12
+    658                                                                                frustrated person at computer       12
+    199                                                                                               accused person       12
+    199                                                                                          people in courtroom       12
+    336                                                                                                    presenter       12
+    336                                                                                      person in undergarments       12
+    336                                                                                             audience members       12
+    320                                                                        there are no characters in this image       12
+    232                                                                                          person using laptop       12
+    726                                                                                                startled girl       12
+    272                                                                                           backseat passenger       12
+    360                                                                                                   pedestrian       12
+    209                                                                                              standing patron       12
+    423                                                                                            person in bathtub       12
+    116                                                                                             alien cartoonist       12
+    116                                                                                                 alien editor       12
+    383                                                                                             children in line       12
+    383                                                                                          person in a costume       12
+    679                                                                                                         king       12
+    317                                                                                            person lying down       12
+    317                                                                                               person sitting       12
+     74                                                                                                         hand       12
+    439                                                                                                 subway train       12
+    710                                                                                                    spectator       12
+    655 there are no characters in this image; it features a large globe with an emphasis on north and south america       12
+    655                                                 and two empty podiums with microphones in front of the globe       12
+    655               suggesting a setting for a debate or a speech. it is a hand-drawn black-and-white illustration       12
+     62                                                                                               person jumping       12
+    536                                                                                               autonomous car       12
+    473                                                                                                        alien       12
+    598                                                                                            meditating person       12
+    465                                                                                            distressed people       12
+    388                                                                                             accordion player       12
+    737                                                                                                    presenter       12
+    625                                                                                                   spectators       12
+    275                                                                                                    defendant       12
+    633                                                                                                girl on slide       12
+    633                                                                                          person sliding down       12
+     45                                                                                               floating heads       12
+    490                                                                                    patient in an mri machine       12
+    701                                                                                                     waitress       12
+    652                                                                                               dessert island       12
+    255                                                                                                   coat stand       12
+    107                                                                                      student sitting at desk       12
+    107                                                                               student standing at blackboard       12
+    146                                                                                                 stick figure       12
+    686                                                                                              person on couch       12
+    147                                                                                              court attendees       12
+    147                                                                                      courtroom sketch artist       12
+    517                                                                                       adult audience members       12
+    468                                                                        there are no characters in this image       12
+    468                          only an illustration of a car with inanimate objects on it and snowflakes around it       12
+    741                                                                                                 smiling face       12
+    595                                                                                                    mannequin       12
+    203                                                                                                        sorry       12
+    203                                                                       i'm unable to provide this information       12
+     64                                                                                   spectator with foam finger       12
+     64                                                                                             athlete on bench       12
+     64                                                                                                   spectators       12
+    429                                                                                                 small figure       12
+    491                                                                                                two prisoners       12
+    491                                                                                              person on slide       12
+    491                                                                                      two children in sandbox       12
+    184                                                                                            customer entering       12
+    665                                                                                                       person       12
+    370                                                                                                    socialite       12
+    409                                                                                             three spectators       12
+     13                                                                                              football helmet       12
+    331                                                                        there are no characters in this image       12
+    448                                                                                                  empty chair       12
+    464                                                                                             audience members       12
+     91                                                                                                        alien       12
+     68                                                                                                   bystanders       12
+     68                                                                                             people in a cafe       12
+     87                                                                                       person in a tree stump       12
+    188                                                                                             audience members       12
+
+Cluster 13:
+Cartoon Character  Cluster
+    758       cat       13
+    447       dog       13
+    447       cat       13
+    386       dog       13
+    191       cat       13
+     66       cat       13
+    714       cat       13
+    128       dog       13
+    391       dog       13
+    470       dog       13
+    535       dog       13
+    427       dog       13
+    108       dog       13
+     46       dog       13
+     46       dog       13
+    142       dog       13
+    586       dog       13
+    640       cat       13
+     41       cat       13
+    476       cat       13
+    677       cat       13
+    342       cat       13
+    600       dog       13
+     21       dog       13
+    102       dog       13
+    552       dog       13
+    750       dog       13
+    438       cat       13
+    269       dog       13
+    269       dog       13
+    547       dog       13
+    588       cat       13
+    674       dog       13
+     43       dog       13
+    272       dog       13
+    435       cat       13
+    403       cat       13
+    511       dog       13
+    442       dog       13
+    269       dog       13
+    269       dog       13
+    510       dog       13
+    547       dog       13
+    674       dog       13
+    272       dog       13
+    177       dog       13
+    403       cat       13
+     19       dog       13
+    511       dog       13
+    442       dog       13
+    356       dog       13
+    473       dog       13
+    561       dog       13
+    127       dog       13
+    432       dog       13
+    371       cat       13
+    185       dog       13
+    214       dog       13
+    428       dog       13
+    347       cat       13
+    150       cat       13
+    385       dog       13
+    223       dog       13
+    223       cat       13
+
+Cluster 14:
+Cartoon           Character  Cluster
+    689 knight on horseback       14
+    148              knight       14
+    365               horse       14
+    575 knight on horseback       14
+    575               horse       14
+    692               horse       14
+    718               horse       14
+    626               horse       14
+    115              knight       14
+    206             centaur       14
+    206               horse       14
+    322               horse       14
+    621              knight       14
+    524              knight       14
+    155              knight       14
+    155               horse       14
+    253               horse       14
+    506              knight       14
+    140               horse       14
+    394             centaur       14
+    463               horse       14
+    635              knight       14
+    320   medieval soldiers       14
+    399 knight on horseback       14
+    399 knight on horseback       14
+    679              knight       14
+    506              knight       14
+    394             centaur       14
+    463               horse       14
+    635              knight       14
+    399 knight on horseback       14
+    679              knight       14
+    500               horse       14
+    668              knight       14
+    700             centaur       14
+
+Cluster 15:
+Cartoon                Character  Cluster
+    148            sumo wrestler       15
+     10                    clown       15
+    365                  mobster       15
+    670                  cyclist       15
+    559                   sailor       15
+    559                    diver       15
+    430                  matador       15
+    471                fisherman       15
+    471              fisherwoman       15
+    406                 castaway       15
+    390                 musician       15
+    187                    thief       15
+    241                 castaway       15
+    240                   dancer       15
+    240    musician with cymbals       15
+    240     musician with violin       15
+    186         religious leader       15
+    493                skydivers       15
+    597                 traveler       15
+    606                astronaut       15
+    368             motorcyclist       15
+    554                    clown       15
+    165                  soldier       15
+    132                   viking       15
+    221                 musician       15
+    626                    rider       15
+    519                   hunter       15
+    149                astronaut       15
+     11          baseball player       15
+     11                   umpire       15
+    325                 explorer       15
+    260                   pirate       15
+    197                astronaut       15
+    178                 prisoner       15
+    656                 musician       15
+    343            roman soldier       15
+    181            archaeologist       15
+    494         football players       15
+    725                   archer       15
+    461                 traveler       15
+    420      table tennis player       15
+    175       futuristic soldier       15
+    749                 magician       15
+    362                    skier       15
+    362                    skier       15
+    335                   jockey       15
+    270              parachutist       15
+    636                   sailor       15
+    636              grim reaper       15
+    661    skater with arms wide       15
+    661   skater looking forward       15
+    661         skater in motion       15
+    661        skater in a dress       15
+    211                astronaut       15
+    657                    skier       15
+     76                   archer       15
+     21                   hunter       15
+    694                 musician       15
+    694            snow shoveler       15
+    552                 castaway       15
+    339                superhero       15
+    378                   pirate       15
+    728                sunbather       15
+    397          baseball player       15
+    397          baseball umpire       15
+    114                  swimmer       15
+    114              water skier       15
+    245                   surfer       15
+    615                fisherman       15
+    615                fisherman       15
+    479                  catcher       15
+    479          baseball batter       15
+     63                   dancer       15
+    711                  catcher       15
+    711                   batter       15
+    711                   umpire       15
+    711                  pitcher       15
+    316                  cyclist       15
+    603                    hiker       15
+    697                   pirate       15
+    697                astronaut       15
+    697                 explorer       15
+    358                    mover       15
+    506                 prisoner       15
+    639                   prince       15
+    140                conductor       15
+    140  musician with a trumpet       15
+    140 musician with a trombone       15
+    140     musician with a tuba       15
+    140     musician with a drum       15
+    547          baseball player       15
+    547                  catcher       15
+    547                   umpire       15
+     38                guitarist       15
+    571                   sailor       15
+    434                  pilgrim       15
+    463                    rider       15
+     43                    clown       15
+    232             chess player       15
+    675           deep sea diver       15
+    675                astronaut       15
+    527                astronaut       15
+      5                   surfer       15
+    638                 inventor       15
+    415                superhero       15
+    639                   prince       15
+    510             photographer       15
+    547          baseball player       15
+     38            guitar player       15
+    588                   artist       15
+    463                    rider       15
+     43                    clown       15
+    675                    diver       15
+    675                astronaut       15
+    527                astronaut       15
+    566              two sailors       15
+      5                   surfer       15
+    638                 inventor       15
+    415                superhero       15
+    710                 musician       15
+    706               backpacker       15
+    706               backpacker       15
+    643                  pianist       15
+    643                    boxer       15
+    614                  pianist       15
+     69                astronaut       15
+    648                 magician       15
+    127                fisherman       15
+    598                    hiker       15
+    625          baseball player       15
+    625                   umpire       15
+    408                superhero       15
+    664                 magician       15
+    351                 shepherd       15
+    582                  cyclist       15
+    486           viking warrior       15
+    486           viking warrior       15
+    469                  pilgrim       15
+    412                    clown       15
+    629      female rock climber       15
+    453              bullfighter       15
+    392        yoga practitioner       15
+    541              grim reaper       15
+    444                fisherman       15
+    444                    rower       15
+    501                   sailor       15
+    690                astronaut       15
+     25                astronaut       15
+     64         athlete with bat       15
+     64        referee or umpire       15
+    491  swimmer on diving board       15
+    491          person swimming       15
+    235               contestant       15
+    235                ballerina       15
+    409                 magician       15
+     44                  soldier       15
+     44                astronaut       15
+    274                ballerina       15
+    761              grim reaper       15
+    673                   prince       15
+     52                    rower       15
+    608                   singer       15
+    608                 organist       15
+    464     magician's assistant       15
+    464                 magician       15
+    126                    clown       15
+    188                  pianist       15
+
+Cluster 16:
+Cartoon      Character  Cluster
+    666        patient       16
+    349       customer       16
+    144        patient       16
+    129        patient       16
+     71        patient       16
+    353        patient       16
+    651        patient       16
+    368      passenger       16
+    535      passenger       16
+    210        patient       16
+    230      passenger       16
+    334      passenger       16
+    573        patient       16
+    231        patient       16
+    704       customer       16
+    250        patient       16
+    179        patient       16
+    382      passenger       16
+    414       customer       16
+    414       customer       16
+    455        patient       16
+    571      customers       16
+    208      passenger       16
+    265       customer       16
+    272      passenger       16
+    419        patient       16
+    177        patient       16
+    208      passenger       16
+    265       customer       16
+    398        visitor       16
+    272      passenger       16
+    419        patient       16
+    602 patient in bed       16
+    189        patient       16
+    367        patient       16
+    326        patient       16
+    701      customers       16
+    351      passenger       16
+    351      passenger       16
+    255         client       16
+    110        patient       16
+    366       customer       16
+     68     passengers       16
+
+Cluster 17:
+Cartoon             Character  Cluster
+    522                   boy       17
+    426                 child       17
+    739                   boy       17
+    742                 child       17
+    353              teenager       17
+    240                 child       17
+    597                 child       17
+    128                  girl       17
+    558                 adult       17
+    558                  baby       17
+     11                   boy       17
+    338                 child       17
+    416                  baby       17
+     20           small child       17
+     77                   boy       17
+    725                  girl       17
+     16                 child       17
+    158                 child       17
+    175              teenager       17
+    339                   boy       17
+    339                  girl       17
+    456                  baby       17
+    480    child with balloon       17
+    414                   boy       17
+    510                 child       17
+    623                 child       17
+     78                  baby       17
+    435 child with a lollipop       17
+    546                   boy       17
+    383         child in line       17
+    510                 child       17
+    434                  girl       17
+    623                 child       17
+    726                  girl       17
+     78                  baby       17
+    435                 child       17
+    546                   boy       17
+     62                 child       17
+    585                 child       17
+    449                 child       17
+    633          boy watching       17
+    721                 child       17
+    613                   boy       17
+    669                  baby       17
+    491     child with shovel       17
+
+Cluster 18:
+Cartoon                    Character  Cluster
+    514                       cowboy       18
+    514                      cowgirl       18
+    514                       cowboy       18
+    596                       cowboy       18
+    169               mexican cowboy       18
+    314                       cowboy       18
+    705          cowboy on horseback       18
+    322                       cowboy       18
+     99                       cowboy       18
+    253              cowboy on horse       18
+    253              cowboy standing       18
+    480                       cowboy       18
+    480    standing cowboy with vest       18
+    480 cowboy with arm around woman       18
+    480              cowboy on bench       18
+    696                       cowboy       18
+    696                       cowboy       18
+    234                       cowboy       18
+    469                       cowboy       18
+    500                       cowboy       18
+    500                 young cowboy       18
+
+Cluster 19:
+Cartoon                                                Character  Cluster
+    631                                             sleeping man       19
+    518                                           man in sandbox       19
+    518                                       man with clipboard       19
+    365                                              elderly man       19
+     84                                               winged man       19
+    563                                   man running on a wheel       19
+    685                                                man hiker       19
+    502                                  man's face on billboard       19
+    607                                          man in mourning       19
+    646                                               male hiker       19
+    216                                               man in bed       19
+     31                                        man wiping window       19
+    647 man on water skis dressed as a revolutionary war soldier       19
+     66                                    man reading newspaper       19
+    743                               man with a lion reflection       19
+    391                                          man in a window       19
+    542                             gentleman with hands clasped       19
+     50                                    man reading newspaper       19
+    734                                          man in a shower       19
+    630                                      man with sunglasses       19
+    512                                              man sitting       19
+    292                                             man grilling       19
+    292                                             man drinking       19
+    416                                          man with arrows       19
+    482                         man with glasses holding a drink       19
+    482                                            man listening       19
+    482                                      man holding a drink       19
+     20                                         man with a drink       19
+     20                       man with a drink in the background       19
+     98                                      man using telescope       19
+     98                                     man standing by door       19
+     16                                         man with glasses       19
+     16                                             man in front       19
+     16                                         man looking back       19
+    508                                    man with arms crossed       19
+    508                                  man holding a clipboard       19
+    699                                  man lying on upper bunk       19
+    699                                  man lying on lower bunk       19
+    226                                             male patient       19
+    565                      man with smoke coming from his head       19
+    162                                             man with dog       19
+    162                                           man with plant       19
+     83                                              man sitting       19
+    525                                              man walking       19
+    525                                man pushing baby stroller       19
+    525                                           man in tractor       19
+    698                                man peering into a window       19
+    266                             construction worker standing       19
+    266                            construction worker crouching       19
+    724                                               casual man       19
+    641                                     man sitting on couch       19
+    568                                        man in background       19
+    591                                           man in bathtub       19
+    591                                          man in armchair       19
+    745                                         man with glasses       19
+    745                                      man with binoculars       19
+    529                                           levitating man       19
+    381                                       man pushing a rock       19
+    381                                              man guiding       19
+    417                                           man in vehicle       19
+    401                                              man reading       19
+    401                                       three men cheering       19
+    496                                          man with a hose       19
+    212                                      man in rocket chair       19
+    212                                              man on sofa       19
+    480                                              man walking       19
+    567                                     man holding a camera       19
+    137                                              elderly man       19
+    199                                         man with glasses       19
+    199                           man in swim trunks and goggles       19
+    361                                    man with crossed arms       19
+    361                                           man presenting       19
+    361                                             man watching       19
+    731                                              elderly man       19
+    623                                  man holding kite string       19
+    232                                         man with headset       19
+    727                                                first man       19
+    727                                               second man       19
+    663                                                 tiny man       19
+    423                                           man in bathtub       19
+    618                                           man in sweater       19
+     39                               shirtless man with a drink       19
+     19                                       man with newspaper       19
+    415                                    man reading newspaper       19
+    229                                              elderly man       19
+    229                                          middle-aged man       19
+    194                                             crawling man       19
+    455                                   man with laser pointer       19
+    681                                 man with life preservers       19
+    402                                           man with spear       19
+    567                                        man holding a jar       19
+    137                                              elderly man       19
+    571                                   man sitting at counter       19
+    571                                  man standing at counter       19
+    571                                two men in the background       19
+    434                                           man with spear       19
+    361                           man standing with arms crossed       19
+    361                            man sitting with folded hands       19
+    361                               man standing and gesturing       19
+    731                                              elderly man       19
+    623                                       man in casual wear       19
+    232                                      man with headphones       19
+    232                                    man reading newspaper       19
+    232                                        man playing chess       19
+    377                                          man in bathrobe       19
+    663                                                 tiny man       19
+    622                                             man grilling       19
+    337                                              elderly man       19
+    177                                         man with sweater       19
+    198                                    man in a potted plant       19
+     39                                            shirtless man       19
+    395                           man with a chimney sweep brush       19
+    395                                      man inside a cannon       19
+     19                                        man with a laptop       19
+    415                                    man reading newspaper       19
+    229                                               man in bed       19
+    194                                             crawling man       19
+    747                                          upside-down man       19
+     62                                              man at desk       19
+    182                                              elderly man       19
+    751                                              man walking       19
+    218                                              man reading       19
+    577                                       man in a food cart       19
+    222                                       man reading a book       19
+    760                                    man with a coffee cup       19
+    330                                              man on sofa       19
+    243                                           man in pajamas       19
+    490                      man possibly a technician or doctor       19
+    185                                                naked man       19
+    193                                          man in armchair       19
+    691                                          man with laptop       19
+    516                           man looking at air conditioner       19
+    516                                    man reading newspaper       19
+    404                                      reflection of a man       19
+    239                                           man in hot tub       19
+    686                                 man on egg-shaped object       19
+    452                                    man hanging from wall       19
+    413                                      man exchanging card       19
+    487                                               man at bar       19
+     72                                          man in a window       19
+    583                                      man with eyeglasses       19
+    583                                     man looking at board       19
+    350                                      man in a deck chair       19
+    370                                              man on sofa       19
+    761                                          middle-aged man       19
+    167                                     man with facial hair       19
+
+Cluster 20:
+Cartoon                            Character  Cluster
+    723       woman speaking into microphone       20
+    723                      woman listening       20
+    631                    woman with laptop       20
+    631                woman with headphones       20
+    631 woman with glasses working on laptop       20
+    125                        woman in suit       20
+    758                          elder woman       20
+    758                   woman with glasses       20
+    758                woman with a ponytail       20
+    758                woman with a stroller       20
+    685                          woman hiker       20
+    607                    woman in mourning       20
+    646                         female hiker       20
+    647                  woman on water skis       20
+     66                       woman knitting       20
+    450                businesswoman walking       20
+    542  woman with an oversized ruff collar       20
+     50                 woman with briefcase       20
+     11                        elderly woman       20
+    630                       woman with hat       20
+    482                woman holding a glass       20
+    482           woman talking on the phone       20
+    482                woman holding a drink       20
+     20                      woman at a desk       20
+     20                   woman with a drink       20
+     20 woman with a drink in the background       20
+     77                      billboard woman       20
+    752     elderly woman with a hat and bag       20
+     16                       woman with hat       20
+    699               woman sitting in chair       20
+    135                        woman in suit       20
+    163                      woman with menu       20
+    698                     woman with a bag       20
+    724                         casual woman       20
+    495                businesswoman sitting       20
+    568                  woman in background       20
+    417                      woman screaming       20
+    401                       woman cheering       20
+    707                  woman holding a cup       20
+    357                         woman in bed       20
+    195                          older woman       20
+     38                       clapping woman       20
+    361                woman holding a paper       20
+    361                      woman gesturing       20
+    623            woman holding kite string       20
+    727                     woman presenting       20
+    377                      woman in a robe       20
+    663                           tiny woman       20
+    726                        alarmed woman       20
+     19                      woman with book       20
+    383                        woman in line       20
+    455                       woman on couch       20
+     38                       clapping woman       20
+    361      woman sitting with hand on chin       20
+    361      woman with raised hand speaking       20
+    232                 woman looking at man       20
+    727                       woman in dress       20
+    727                      woman gesturing       20
+    377                    woman in bathrobe       20
+    663                           tiny woman       20
+    337                        elderly woman       20
+    730                      woman scientist       20
+     19                  woman with a tablet       20
+    229                         woman in bed       20
+    751                     woman with a dog       20
+    614                          grandmother       20
+    218                     woman in bathtub       20
+    449                        woman reading       20
+    330                    woman in bathrobe       20
+    633              woman standing on slide       20
+    243                         woman in bed       20
+    193                       woman standing       20
+    691                  woman with knitting       20
+    686                       woman on couch       20
+    413                     woman with purse       20
+    413                          older woman       20
+     25                            two women       20
+    595                            two women       20
+    583                 woman with briefcase       20
+    583                   woman exiting door       20
+    350                       woman standing       20
+    491                   woman with parasol       20
+    720                        woman at desk       20
+    370                        woman on sofa       20
+    632                       standing woman       20
+    761                    middle-aged woman       20
+
+Cluster 21:
+Cartoon                                              Character  Cluster
+    723                                 dog playing the guitar       21
+    723                                 cat playing the violin       21
+    723                               dog playing the keyboard       21
+    723                                            cat singing       21
+    723                                      fish in fish tank       21
+    236                                  walrus in an armchair       21
+    762                                               tortoise       21
+    332                                            sea monster       21
+    220                                                giraffe       21
+    109                                  sea star (cartoonish)       21
+    172                                           moai statues       21
+    430                                                   bull       21
+     92                                anthropomorphic dolphin       21
+    471                                                 sharks       21
+    164                                                  goats       21
+    543                                               elephant       21
+    451                                                    pig       21
+    328                                    insect-like figures       21
+    447                                               goldfish       21
+    555                                    shark with a hammer       21
+    555                                                  shark       21
+    410                                                 beaver       21
+    410                                                 beaver       21
+    739                                 dog dressed as a human       21
+    191                                                  sheep       21
+    191                                                  sheep       21
+    312                                                   lion       21
+    579                                            crowned cat       21
+    200                                                monster       21
+    715                                  anthropomorphic globe       21
+    646                                      mythical creature       21
+    703                                              crocodile       21
+    538                                              giant cat       21
+    241                                                  shark       21
+    611                                               gargoyle       21
+    539                                                lemming       21
+    539                                               lemmings       21
+     31                                   anthropomorphic bull       21
+     89                                             lion tamer       21
+     89                                                   lion       21
+     89                                                  camel       21
+     70                                               two dogs       21
+    190                                            bull statue       21
+    190                                         ostrich statue       21
+    485                                                    cow       21
+    485                                  golf bag-wearing bull       21
+    692                                                  sheep       21
+    692                                                    cow       21
+    104                                                   cows       21
+    503                                            santa claus       21
+    503                                               reindeer       21
+    503                                               reindeer       21
+    329                                      dinosaur skeleton       21
+    145                                         giant creature       21
+    684                                               dinosaur       21
+    684                                dinosaur with a necktie       21
+    684                                 dinosaur playing piano       21
+    684                             dinosaur with a spiky back       21
+    759                                     fish in a fishbowl       21
+    759                                         school of fish       21
+    427                                                 zombie       21
+    348                                                statues       21
+    671                                         woolly mammoth       21
+    325                                           moai statues       21
+    396                                            statue head       21
+    441                                          fish skeleton       21
+    441                                   various smaller fish       21
+    695                                anthropomorphized toast       21
+    380                                               giraffes       21
+    744                                     dog wearing a cone       21
+    590                                         humanoid birds       21
+    590                                          humanoid bird       21
+    139                                                   lion       21
+    139                                                lioness       21
+    355                       turkey wearing fishnet stockings       21
+    355                                                 turkey       21
+    617                                   devil with a trident       21
+    752              anthropomorphic book with a face and legs       21
+    752 anthropomorphic book with a face and legs walking away       21
+    375                                            striped cat       21
+    375                                              round cat       21
+    271                                anthropomorphized cloud       21
+    158                                   buried heads in sand       21
+    508                                                  shark       21
+    733                                                  sheep       21
+    318                                          giant chicken       21
+    123                                  anthropomorphized cow       21
+    123                                anthropomorphized bison       21
+      6                             anthropomorphic number six       21
+    532                                                  whale       21
+    421                           anthropomorphic rhinoceroses       21
+     95                                                  tiger       21
+    319                                       two-headed snake       21
+     40                                                snowman       21
+    724                                               dinosaur       21
+    753                                                  whale       21
+    641                                                  sheep       21
+    712                                               dinosaur       21
+    712                                                   toad       21
+    712                                               skeleton       21
+     76                                                snowman       21
+    745                                                  snail       21
+    315                                                  giant       21
+    102                                           humanoid dog       21
+    505                                              crocodile       21
+    378                               rabbit in pirate costume       21
+    750                                                  sheep       21
+    750                                                  sheep       21
+    341                                                  geese       21
+    341                                               tortoise       21
+    678                                                giraffe       21
+    678                                                giraffe       21
+    228                                                raccoon       21
+    228                                               squirrel       21
+    228                                              porcupine       21
+    564                                                   owls       21
+    394                                                  snail       21
+     38                                            dancing dog       21
+      4                                         giant monsters       21
+    422                                                 turtle       21
+     79                                              robot dog       21
+    434                                               munchkin       21
+    434                                          cowardly lion       21
+    176                                                chicken       21
+    418                                  anthropomorphic couch       21
+    674                                                monster       21
+    726                                              giant ant       21
+    458                                                 sphinx       21
+    618                                          antelope head       21
+    618                                           unicorn head       21
+    618                                        rhinoceros head       21
+    161                                              alligator       21
+    531                                giraffe sitting on sofa       21
+    531                                       giraffe standing       21
+    403                                               elephant       21
+    546                                    dolphin-shaped tree       21
+    546                                  dolphin-shaped island       21
+     19                                        dog with tablet       21
+    383                                                 statue       21
+    394                                                  snail       21
+     38                                            dancing dog       21
+      4                                         giant monsters       21
+    422                                                 turtle       21
+    588                                                statues       21
+    434                                                   lion       21
+    418                                   anthropomorphic sofa       21
+    674                                               werewolf       21
+     14                                      animal-headed man       21
+    233                              animals dressed as humans       21
+    726                                           giant insect       21
+    458                                                 sphinx       21
+    618                                               antelope       21
+    618                                                unicorn       21
+    618                                             rhinoceros       21
+    161                                              alligator       21
+    531                             giraffe sitting on a couch       21
+    531                                       giraffe standing       21
+    403                                               elephant       21
+    546                                   dolphin-shaped trees       21
+    182                                       cat in a picture       21
+    182                               two anthropomorphic cats       21
+    244                                              alligator       21
+    609                                               sandwich       21
+    222                                                mermaid       21
+    672              anthropomorphic animal in business attire       21
+    234                                         horse skeleton       21
+    756                                              chameleon       21
+    351                                                  sheep       21
+    717                                                giraffe       21
+    594                                  anthropomorphic trees       21
+    740                                                   bull       21
+    691                                                snowmen       21
+    412                                                mermaid       21
+    445                                            monster car       21
+    453                                                   bull       21
+    392                                               dinosaur       21
+    687                                 anthropomorphic figure       21
+    405                                          giant chicken       21
+    628                                   anthropomorphic fish       21
+    106                                               creature       21
+    487                                               werewolf       21
+    311                                           hippopotamus       21
+    604                                          cave elephant       21
+    595                                                snowman       21
+    215                                                  giant       21
+    665                                                  shark       21
+    262                                                unicorn       21
+    327                                            sea monster       21
+    624                                                vampire       21
+    624                                               skeleton       21
+    736                                               dinosaur       21
+    736                            dinosaur with propeller hat       21
+     52                                                  shark       21
+    599                                               dinosaur       21
+    560                                        dinosaur fossil       21
+    130                                                snowman       21
+      3                                        disgruntled cat       21
+    167                                              alligator       21
+    167                                   crocodile with stick       21
+
