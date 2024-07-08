@@ -1,0 +1,642 @@
+Cluster 0:Cartoon     Character  Cluster
+    723          fish        0
+    109      sea star        0
+    467          bird        0
+    471     fisherman        0
+    471   fisherwoman        0
+    144          fish        0
+    555         shark        0
+    165          cook        0
+    759          fish        0
+    562          fish        0
+    441 fish skeleton        0
+    441          fish        0
+    314          bird        0
+    508         shark        0
+    532         whale        0
+    437          bird        0
+    509          fish        0
+    615     fisherman        0
+      8          fish        0
+    711        batter        0
+    603        diners        0
+    603         diner        0
+    551          wave        0
+
+Cluster 1:Cartoon Character  Cluster
+    631       man        1
+    518       man        1
+    109       man        1
+    488       man        1
+    719       man        1
+     92       man        1
+    125       man        1
+    758       man        1
+    390       man        1
+    105       man        1
+    739       man        1
+    693       man        1
+    607       man        1
+    579       man        1
+    216       man        1
+    538       man        1
+    168       man        1
+     66       man        1
+    714       man        1
+    578       man        1
+    743       man        1
+    190       man        1
+    329       man        1
+    515       man        1
+    684       man        1
+    391       man        1
+    470       man        1
+    348       man        1
+    523       man        1
+     50       man        1
+    734       man        1
+    763       man        1
+     11       man        1
+    630       man        1
+     46       man        1
+    722       man        1
+    292       man        1
+    103       man        1
+    416       man        1
+    695       man        1
+    380       man        1
+    482       man        1
+     20       man        1
+     98       man        1
+     77       man        1
+    586       man        1
+    247       man        1
+     16       man        1
+    271       man        1
+    508       man        1
+    699       man        1
+    174       man        1
+    565       man        1
+    135       man        1
+    477       man        1
+    162       man        1
+    533       man        1
+    421       man        1
+     83       man        1
+    708       man        1
+    437       man        1
+    525       man        1
+    175       man        1
+    698       man        1
+    677       man        1
+    724       man        1
+    753       man        1
+    641       man        1
+    568       man        1
+    591       man        1
+    745       man        1
+    529       man        1
+    381       man        1
+    417       man        1
+    339       man        1
+    505       man        1
+    456       man        1
+    401       man        1
+    496       man        1
+    357       man        1
+    212       man        1
+    480       man        1
+
+Cluster 2:Cartoon         Character  Cluster
+    133           caveman        2
+    133         cavewomen        2
+    308           caveman        2
+    241          castaway        2
+    755           caveman        2
+    684          dinosaur        2
+    108           caveman        2
+    671           caveman        2
+    333           caveman        2
+    333         cavewoman        2
+    457           cavemen        2
+    676           caveman        2
+    676         cavewoman        2
+    676 two cave children        2
+    712          dinosaur        2
+    552          castaway        2
+
+Cluster 3:Cartoon Character  Cluster
+    723     woman        3
+    236     woman        3
+    631     woman        3
+    518     woman        3
+    332     woman        3
+    627     woman        3
+    109     woman        3
+    719     woman        3
+     92     woman        3
+    125     woman        3
+    758     woman        3
+    543     woman        3
+    693     woman        3
+    484     woman        3
+    607     woman        3
+    742     woman        3
+    650     woman        3
+    703     woman        3
+    353     woman        3
+    492     woman        3
+    168     woman        3
+    610     woman        3
+    647     woman        3
+     66     woman        3
+    714     woman        3
+    597     woman        3
+    578     woman        3
+     70     woman        3
+    446     woman        3
+    470     woman        3
+    132     woman        3
+    431     woman        3
+    574     woman        3
+    348     woman        3
+    523     woman        3
+    108     woman        3
+    276     woman        3
+    149     woman        3
+     11     woman        3
+     46     woman        3
+    688     woman        3
+    379     woman        3
+    396     woman        3
+    512     woman        3
+    338     woman        3
+    292     woman        3
+    103     woman        3
+    482     woman        3
+     20     woman        3
+    601     woman        3
+    343     woman        3
+    713     woman        3
+    119     woman        3
+     16     woman        3
+    699     woman        3
+    135     woman        3
+    477     woman        3
+    476     woman        3
+    163     woman        3
+    533     woman        3
+    421     woman        3
+     83     woman        3
+      7     woman        3
+    564     woman        3
+    358     woman        3
+    437     woman        3
+    749     woman        3
+    698     woman        3
+     40     woman        3
+    724     woman        3
+    231     woman        3
+    568     woman        3
+    657     woman        3
+     21     woman        3
+    417     woman        3
+    339     woman        3
+    401     woman        3
+     34     woman        3
+    183     woman        3
+    357     woman        3
+    746     woman        3
+    414     woman        3
+      7     woman        3
+      7     woman        3
+      7     woman        3
+    564     woman        3
+    358     woman        3
+      7     woman        3
+
+Cluster 4:Cartoon                    Character  Cluster
+    373                businesswoman        4
+    762                businesswoman        4
+    344                businesswoman        4
+     27                businesswoman        4
+    450                businesswoman        4
+    431                businesswoman        4
+     93 person in a business meeting        4
+    545                businesswoman        4
+    569                businesswoman        4
+    549                businesswoman        4
+    318                office worker        4
+    436                office worker        4
+    709                businesswoman        4
+    227                businesswoman        4
+    616                office worker        4
+    495                businesswoman        4
+    592                office worker        4
+    603                office worker        4
+
+Cluster 5:Cartoon                Character  Cluster
+    762                 tortoise        5
+    349                 waitress        5
+    758                     tree        5
+    164                    goats        5
+    543                 elephant        5
+    685                     bear        5
+    451                      pig        5
+    410                   beaver        5
+    191                    sheep        5
+    129                    robot        5
+    539                  lemming        5
+    485                      cow        5
+    692                    sheep        5
+    104                     cows        5
+    503                 reindeer        5
+    427                   zombie        5
+    523                   monkey        5
+    355                   turkey        5
+    322                      ant        5
+    733                    sheep        5
+    564                      owl        5
+    460                   parrot        5
+    749                   rabbit        5
+    732     witness (teddy bear)        5
+    509                     bear        5
+    323                  peacock        5
+    587                     deer        5
+    712                     toad        5
+    378 rabbit in pirate costume        5
+    750                    sheep        5
+    341                    geese        5
+    204                      rat        5
+    228                  raccoon        5
+    228                 squirrel        5
+    564                     owls        5
+    134                    robot        5
+
+Cluster 6:Cartoon      Character  Cluster
+    373    businessman        6
+     47    businessman        6
+    324    businessman        6
+    762    businessman        6
+    627    businessman        6
+    758    businessman        6
+    534    businessman        6
+    113    businessman        6
+    447    businessman        6
+    369    businessman        6
+     26    businessman        6
+    742    businessman        6
+    353    businessman        6
+    217    businessman        6
+    344    businessmen        6
+     27    businessman        6
+    692    businessman        6
+    411    businessman        6
+    153    businessman        6
+    446    businessman        6
+    450    businessman        6
+    427    businessman        6
+    431    businessman        6
+     93    businessman        6
+    173    businessman        6
+    221    businessman        6
+     11    businessman        6
+    372    businessman        6
+    237    businessman        6
+    545    businessman        6
+    400    businessman        6
+    142    businessman        6
+    154    businessman        6
+    553    businessman        6
+    314    businessman        6
+    569    businessman        6
+    210    businessman        6
+     36    businessman        6
+    363    businessman        6
+    733    businessman        6
+     57    businessman        6
+    318    businessman        6
+    359    businessman        6
+    420 businessperson        6
+    498    businessman        6
+    533    businessman        6
+     95    businessman        6
+    159    businessman        6
+    266    businessman        6
+    246    businessman        6
+    495    businessman        6
+    138    businessman        6
+    196    businessman        6
+    339    businessman        6
+    155    businessman        6
+    143    businessman        6
+    513    businessman        6
+    544    businessman        6
+    584    businessmen        6
+    204    businessman        6
+     75    businessman        6
+    592    businessman        6
+     22 businessperson        6
+    195    businessman        6
+    101    businessman        6
+
+Cluster 7:Cartoon                    Character  Cluster
+    723               sound engineer        7
+    689                       knight        7
+    148                sumo wrestler        7
+    148         native tribal person        7
+    148                       knight        7
+     10                        clown        7
+    365                      mobster        7
+    365                      sheriff        7
+    670                      cyclist        7
+    559                       sailor        7
+    430                      matador        7
+    575                       knight        7
+    164                  firefighter        7
+    406                      plumber        7
+    685                  woman hiker        7
+    390                     musician        7
+    200                 receptionist        7
+    715                    bartender        7
+    646                   male hiker        7
+    646                 female hiker        7
+    703                       waiter        7
+    187                        thief        7
+    754                  firefighter        7
+    240                       dancer        7
+    240                     musician        7
+    186             religious leader        7
+    702                       barber        7
+     89                   lion tamer        7
+    578                       waiter        7
+    606                     co-pilot        7
+    368                 motorcyclist        7
+    554                    bartender        7
+    153             group of workers        7
+    542                    gentleman        7
+    165             military officer        7
+    165                      soldier        7
+      1                    scientist        7
+    221                      workman        7
+    221                     musician        7
+     11              baseball player        7
+    260                       pirate        7
+    688             military officer        7
+    115                       knight        7
+    512                 delivery boy        7
+    416                 psychologist        7
+    178                    bartender        7
+    528                    presenter        7
+    314                    bartender        7
+    656                     musician        7
+    343                roman soldier        7
+    713               police officer        7
+    181                archaeologist        7
+    494             football players        7
+    725                       archer        7
+    621                       knight        7
+    461             airline employee        7
+    524                       knight        7
+    533                    scientist        7
+    421                      barista        7
+    134                   smartphone        7
+    122               police officer        7
+    175           futuristic soldier        7
+    749                     magician        7
+     56                    scientist        7
+    362                        skier        7
+    335                       jockey        7
+    266          construction worker        7
+    636          construction worker        7
+    636                       sailor        7
+    374                      speaker        7
+    661                       skater        7
+     37               court reporter        7
+    211                    astronaut        7
+    704                       waiter        7
+    657                        skier        7
+    342 complaints department worker        7
+     76                       archer        7
+    196                    scientist        7
+    694                     musician        7
+    339                    superhero        7
+    155                       knight        7
+    440              baseball player        7
+    728                    sunbather        7
+    397              baseball player        7
+    397              baseball umpire        7
+    114                    lifeguard        7
+    114                      swimmer        7
+    245                       surfer        7
+    479                   politician        7
+    479                      catcher        7
+     63                       dancer        7
+    711                      catcher        7
+    711                       umpire        7
+    711                    spectator        7
+    654                       waiter        7
+    316                      cyclist        7
+    228                      sheriff        7
+    697                       pirate        7
+    697                    astronaut        7
+    414                     salesman        7
+    443          construction worker        7
+
+Cluster 8:Cartoon Character  Cluster
+    522       boy        8
+    426     child        8
+    758       boy        8
+    502    adults        8
+    739       boy        8
+    742     child        8
+    353  teenager        8
+    240     child        8
+    597     child        8
+    128      girl        8
+    407    adults        8
+    558     adult        8
+    558      baby        8
+     11       boy        8
+     77       boy        8
+     16     child        8
+    158     child        8
+    339       boy        8
+    480     child        8
+    414       boy        8
+
+Cluster 9:Cartoon    Character  Cluster
+    631         chef        9
+    365    detective        9
+    220       doctor        9
+     51       lawyer        9
+     51        judge        9
+    144 psychiatrist        9
+    742         chef        9
+    129       doctor        9
+     71       doctor        9
+    353        nurse        9
+    353       doctor        9
+     30       doctor        9
+     30    detective        9
+    651       doctor        9
+    606        pilot        9
+    535       driver        9
+    364    detective        9
+    197        pilot        9
+    660       doctor        9
+    230       driver        9
+    748         chef        9
+    732       lawyer        9
+    548        pilot        9
+    724       author        9
+    231       doctor        9
+     37        judge        9
+     37     attorney        9
+    207       doctor        9
+    250       doctor        9
+    179       doctor        9
+    642         chef        9
+    382        pilot        9
+
+Cluster 10:Cartoon          Character  Cluster
+    666            patient       10
+    365        elderly man       10
+    349           customer       10
+    758        elder woman       10
+    758             person       10
+    200             person       10
+    345    deceased person       10
+    353            patient       10
+    387             person       10
+    535          passenger       10
+    309             person       10
+      1             person       10
+    427 blindfolded person       10
+     11      elderly woman       10
+    260             person       10
+    688             person       10
+    683             person       10
+    617             people       10
+    752        elderly man       10
+    752      elderly woman       10
+    334          passenger       10
+    363           employee       10
+    573            patient       10
+    572             person       10
+    374    deceased person       10
+    180             person       10
+    704           customer       10
+    707             person       10
+      8     elderly person       10
+    414           customer       10
+
+Cluster 11:Cartoon         Character  Cluster
+     31 man wiping window       11
+    352     window washer       11
+    738     groundskeeper       11
+    325          explorer       11
+    637     groundskeeper       11
+    358             mover       11
+    697          explorer       11
+    358             mover       11
+
+Cluster 12:Cartoon    Character  Cluster
+    148       wizard       12
+    148        devil       12
+    312         lion       12
+    596        witch       12
+    580         king       12
+     89         lion       12
+    692       dragon       12
+    470        ghost       12
+    165         king       12
+    519       hunter       12
+    729         king       12
+    729        queen       12
+    251        angel       12
+    590       dragon       12
+    139         lion       12
+     41        witch       12
+    226 alien doctor       12
+     94        angel       12
+    620        angel       12
+    118        angel       12
+    600        alien       12
+    483        angel       12
+     21       hunter       12
+
+Cluster 13:Cartoon           Character  Cluster
+    365               horse       13
+    575               horse       13
+    514              cowboy       13
+    514             cowgirl       13
+    169      mexican cowboy       13
+    692               horse       13
+    718               horse       13
+    626               horse       13
+     11 man with cowboy hat       13
+    705              cowboy       13
+    322              cowboy       13
+     99              cowboy       13
+    253              cowboy       13
+    480              cowboy       13
+
+Cluster 14:Cartoon            Character  Cluster
+    723                  dog       14
+    723                  cat       14
+    762                mouse       14
+    758                  car       14
+    447                  dog       14
+    447                  cat       14
+    386                  dog       14
+    191                  cat       14
+     66                  cat       14
+    128                  dog       14
+    391                  dog       14
+     46                  dog       14
+    667                mouse       14
+    142                  dog       14
+    744                  dog       14
+    586                  dog       14
+    640                  cat       14
+    640 mouse riding the cat       14
+    640                mouse       14
+    375                  cat       14
+     41                  cat       14
+    162                  dog       14
+    342                  cat       14
+    600                  dog       14
+    196                mouse       14
+    102                  dog       14
+    750                  dog       14
+    438                  cat       14
+
+Cluster 15:Cartoon                  Character  Cluster
+    735             groom figurine       15
+    735             bride figurine       15
+    172               moai statues       15
+     84                 winged man       15
+    502    man's face on billboard       15
+    579                crowned cat       15
+    611                   gargoyle       15
+     31       anthropomorphic bull       15
+    581           religious figure       15
+    190                bull statue       15
+    503                santa claus       15
+    329          dinosaur skeleton       15
+    145             giant creature       15
+    427              zombie couple       15
+    671             woolly mammoth       15
+    380                   giraffes       15
+    590             humanoid birds       15
+    206                    centaur       15
+    752       anthropomorphic book       15
+    318              giant chicken       15
+    123      anthropomorphized cow       15
+      6 anthropomorphic number six       15
+    354       man dressed as plant       15
+    315                      giant       15
+     63               seated woman       15
+    678                    giraffe       15
+
