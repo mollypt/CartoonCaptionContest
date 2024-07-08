@@ -137,11 +137,10 @@ plt.grid(True)  # Optional: Adds a grid for better visibility of the axes scales
 plt.show()  # Display the plot
 
 # Plot silhouette scores
-plt.figure(figsize=(10, 5))  # Optional: Specifies the size of the figure
-plt.plot(indices2, values2, color='g')  # Line chart with points marked
-plt.title('Setting Silhoutte Scores')  # Title of the plot
-plt.xlabel('k')  # Label for the x-axis
-plt.ylabel('Silhoutte Score')  # Label for the y-axis
-plt.grid(True)  # Optional: Adds a grid for better visibility of the axes scales
-plt.show()  # Display the plot
-
+plt.figure(figsize=(10, 5))  
+plt.plot(indices2, values2, color='g')  
+plt.title('Setting Silhoutte Scores')  
+plt.xlabel('k') 
+plt.ylabel('Silhoutte Score') 
+plt.grid(True) 
+plt.show()  
