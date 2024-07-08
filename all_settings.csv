@@ -1,0 +1,656 @@
+Cartoon,Setting,Cluster
+230,a road,0
+582,road,0
+480,street,0
+413,an alleyway,0
+383,an alleyway,0
+351,subway,0
+272,the road,0
+190,the road,0
+442,traffic,0
+331,a road,0
+533,a subway,0
+434,the yellow brick road,0
+343,a back alley,0
+79,a city,0
+415,a subway,0
+515,a railroad,0
+642,alleyway,0
+509,a stream,0
+745,downtown city,0
+2,a subway train,0
+689,a street,0
+622,the subway,0
+324,an alleyway,0
+92,a street-corner,0
+697,a subway,0
+609,a subway,0
+91,a highway,0
+4,a city,0
+315,a city,0
+385,the road,0
+575,path,0
+752,a road,0
+510,the street,0
+187,a roadway,0
+14,a city street,0
+368,the highway,0
+169,the street,0
+435,the streets,0
+548,a traffic stop,0
+217,an office room,1
+384,a meeting room,1
+592,classroom,1
+450,a meeting room,1
+365,a round table,1
+388,an operating room,1
+65,a meeting room,1
+569,a corporate meeting room,1
+151,office room,1
+159,a board room,1
+155,a conference room,1
+246,a meeting room,1
+219,a performance room,1
+252,an office room,1
+269,a meeting room,1
+326,therapy room,1
+22,a corporate meeting room,1
+528,an office room,1
+495,boardroom,1
+255,an office room,1
+727,an empty room,1
+8,a room,1
+62,an office room,1
+170,the break room,1
+29,an office room,1
+371,a room,1
+207,a room,1
+373,a meeting room,1
+33,a hotel room,1
+545,a meeting room,1
+233,a corporate meeting room,1
+5,waiting room,1
+613,an interrogation room,1
+93,a meeting room,1
+75,a meeting room,1
+177,an office room,1
+56,an operating room,1
+460,boardroom,1
+135,a room,1
+204,an office meeting,1
+200,a reception desk,1
+684,boardroom,1
+154,a meeting room,1
+98,an office room,1
+327,a swimming pool,2
+46,a convention center,2
+472,debate,2
+440,a baseball pit,2
+623,a public park,2
+594,park,2
+630,beach,2
+432,a kennel,2
+381,a hill,2
+86,golf course,2
+312,a zoo,2
+436,a fish bowl,2
+89,a circus,2
+624,a cemetery,2
+335,horse track,2
+570,a park bench,2
+181,Europe,2
+473,a park,2
+158,beach,2
+645,a golf course,2
+336,conference,2
+626,ranch,2
+718,farm,2
+461,an airport,2
+572,public pool,2
+484,a pool hall,2
+757,a park,2
+721,a sandbox,2
+266,an ice skating rink,2
+444,lake,2
+215,a boxing ring,2
+502,graveyard,2
+309,a roller coaster,2
+453,an arena,2
+489,a junkyard,2
+506,the execution grounds,2
+633,a park,2
+711,the living room,3
+418,a living room,3
+128,a living room,3
+593,a living roo,3
+531,a living room,3
+247,a living room apartment,3
+193,a living room,3
+686,a living room,3
+618,a living room,3
+330,the tv room,3
+691,the living room,3
+142,Living Room,3
+83,living room,3
+401,a living room,3
+57,a living room,3
+20,the living room,3
+449,a living room,3
+236,a living room,3
+164,a living room,3
+117,a living room,3
+310,a living room,3
+577,a living room,3
+470,the living room,3
+396,the living room,3
+377,the living room,3
+182,a living room,3
+743,the living room,3
+641,a living room,3
+111,a living room,3
+523,the living room,3
+205,the living room,3
+157,the living room,3
+464,a living room,3
+50,a living room,3
+19,a living room,3
+391,the living room,3
+70,the living room,3
+438,living room,3
+311,a living room,3
+150,the living room,3
+537,the living room,3
+66,living room,3
+428,the living room,3
+477,a living room,3
+543,the living room,3
+63,a living room,3
+21,a living room,3
+123,A living room,3
+222,the living room,3
+579,the living room,3
+403,a living room,3
+649,a living room,3
+433,a living room,3
+725,a field,4
+206,a field,4
+625,baseball field,4
+674,a field,4
+319,a field,4
+102,a field,4
+733,a field,4
+736,a field,4
+494,a football field,4
+661,a snowfield,4
+485,a field,4
+750,a field,4
+139,a field,4
+761,a field,4
+397,a baseball field,4
+186,mount sinai,5
+728,the beach,5
+741,remote area,5
+185,mountains,5
+547,a desert,5
+469,a desert,5
+234,a western town,5
+124,the desert,5
+601,the desert,5
+552,a desert,5
+581,mount sinai,5
+705,the middle of a desert,5
+140,the oregontrail,5
+486,the mountains,5
+322,the desert,5
+646,the mountains,5
+362,the desert,5
+54,the desert,5
+399,the wild west,5
+524,the hills,5
+194,the desert,5
+271,mount sinai,5
+634,the pyramids,5
+202,the beach,5
+553,a wasteland,5
+744,middle of nowhere,5
+424,the desert,5
+71,doctor's office,6
+61,doctor's office,6
+591,a therapist's office,6
+651,a doctor's office,6
+226,doctor's office,6
+476,a psychiatrist office,6
+354,the doctor's office,6
+179,a doctor's office,6
+250,a doctor's office,6
+375,therapist office,6
+756,a psychiatrist office,6
+650,a psychiatry office,6
+660,a doctor's office,6
+540,doctor's office,6
+220,a doctor's office,6
+386,the doctor's office,6
+565,doctor's office,6
+447,a psychiatry office,6
+144,therapist office,6
+382,doctor's office,6
+358,a therapist office,6
+30,Doctor's Office,6
+536,a psychiatry office,6
+212,a therapist office,6
+416,a psychiatry office,6
+419,doctor's office,6
+666,a therapist office,6
+672,a doctor's office,6
+99,a physician's office,6
+520,therapist office,6
+317,a psychiatry office,6
+452,a counseling office,6
+731,a therapist office,6
+455,a therapist's office,6
+699,psychologist office,6
+408,a doctor's office,6
+321,a bedroom,7
+478,bedroom,7
+347,the bedroom,7
+34,a bedroom,7
+243,the bedroom,7
+53,a bedroom,7
+183,a bedroom,7
+189,a bed,7
+7,a bedroom,7
+263,the bedroom,7
+13,a bedroom,7
+166,the bedroom,7
+353,a bedroom,7
+58,the bedroom,7
+456,the bedroom,7
+558,a bedroom,7
+492,the bedroom,7
+669,a bedroom,7
+248,a bedroom,7
+134,the bedroom,7
+216,the bedroom,7
+,,
+153,court room,8
+51,the courtroom,8
+275,a courtoom,8
+732,a courtroom,8
+199,a courtroom,8
+517,a courtroom,8
+37,a courtroom,8
+122,a courtroom,8
+176,a courtroom,8
+147,the courtroom,8
+420,a courtroom,8
+239,a courtroom,8
+664,a courtroom,8
+274,a bar,9
+702,a barber shop,9
+31,A bar,9
+184,a bar,9
+49,a bar,9
+209,a bar,9
+156,a bar,9
+178,a bar,9
+120,a bar,9
+596,bar,9
+115,bar,9
+628,a bar,9
+715,a bar,9
+497,a bar,9
+366,a barber shop,9
+9,the bar,9
+387,a bar,9
+439,the bar,9
+130,the yard,10
+739,outside,10
+292,the backyard,10
+82,Garden of Eden,10
+738,a back yard,10
+237,outside,10
+172,outside,10
+437,a backyard,10
+350,a front yard lawn,10
+726,outside,10
+687,the patio,10
+491,the backyard,10
+105,a backyard,10
+574,the backyard,10
+637,a yard,10
+747,the backyard,10
+496,the front yard,10
+682,lawn,10
+323,the grass,10
+694,the front yard,10
+755,a cave dwelling,11
+560,a cave dwelling,11
+683,stone age,11
+462,stoneage,11
+746,a prehistoric setting.,11
+693,a laboratory,12
+218,a bathroom,12
+716,the kitchen,12
+556,a kitchen,12
+708,the ktichen,12
+522,lab,12
+423,a bathroom,12
+106,a laboratory,12
+404,bathroom,12
+221,kitchen,12
+734,a bathroom,12
+265,the kitchen,12
+585,kitchen,12
+663,the kitchen,12
+730,a laboratory,12
+84,the bathroom,12
+677,kitchen,12
+196,a laboratory,12
+132,the kitchen,12
+402,plains,13
+500,plains,13
+678,plains,13
+253,plains,13
+514,plains,13
+511,a residential walkway,14
+698,a sidewalk,14
+525,a city sidewalk,14
+356,the sidewalk,14
+638,the sidewalk,14
+521,the sidewalk,14
+360,the sidewalk,14
+586,the sidewalk,14
+162,the sidewalk,14
+681,sidewalk,14
+751,the sidewalk,14
+328,a sidewalk,14
+308,a cave,15
+108,a cave,15
+614,cliff,15
+599,a cave,15
+539,a cliff,15
+629,rock wall,15
+598,a cave,15
+475,a cave,15
+604,a cave,15
+671,cave,15
+590,a cave,15
+676,a cave,15
+603,a cliff side,15
+133,a cave,15
+276,a restaurant,16
+571,restaurant,16
+659,a restaurant,16
+232,a dinner table,16
+516,restaurant,16
+15,a restaurant,16
+703,restaurant,16
+554,a restaurant,16
+680,a restaurant,16
+654,restaurant,16
+589,restaurant,16
+168,a restaurant,16
+446,a restaurant,16
+635,a restaurant,16
+760,a restaurant,16
+374,a restaurant,16
+390,a restaurant,16
+481,a restaurant,16
+701,a restaurant,16
+696,a dinner table,16
+349,a diner,16
+163,a restaurant,16
+389,a restaurant table,16
+578,a restaurant,16
+141,heaven,17
+535,the ocean,17
+737,clouds,17
+346,heavan,17
+529,the ground,17
+526,heavan,17
+393,clouds,17
+665,the ocean,17
+16,hell,17
+555,the sea,17
+104,heaven,17
+606,in the sky,17
+211,the moon,17
+620,heaven,17
+562,ocean,17
+454,the gates of heaven,17
+759,the ocean,17
+341,the sky,17
+493,the sky,17
+270,the sky,17
+316,heaven,17
+118,heaven,17
+441,the sea,17
+251,heaven,17
+52,the ocean,17
+94,heaven,17
+488,the moon,17
+617,hell,17
+348,a beach,18
+580,a kingdom,18
+679,kingdom,18
+337,an island,18
+427,a zombie apocalypse,18
+546,an island,18
+542,a village,18
+380,an ocean,18
+532,an island,18
+325,easter island,18
+417,a suspension bridge,18
+720,a mountain,18
+673,a remote location,18
+463,an island,18
+406,a small island,18
+242,a beach,18
+241,an island,18
+412,an island,18
+503,north pole,18
+530,a kingdom,18
+114,a beach,18
+652,an island,18
+101,the side of a building,19
+320,the castle gates,19
+72,outside a building,19
+352,the outside of a building,19
+11,the outside of a house,19
+398,the front door,19
+707,the front door,19
+541,the front door,19
+627,a ledge of a building,19
+160,outside of a home,19
+505,the front door,19
+12,the side of a building,19
+504,the front door,19
+131,outside a home,19
+758,the front door,19
+195,the front door,19
+,,
+338,a residential home,20
+240,home,20
+518,a rooftop,20
+78,prison,20
+692,store,20
+512,a yoga studio,20
+392,a yoga studio,20
+602,hospital,20
+608,a church,20
+171,a butcher shop,20
+735,a counter,20
+208,a car,20
+749,rooftop,20
+23,two branches,20
+443,a demolition site,20
+145,a building,20
+198,a car,20
+595,a department store,20
+612,a crime scene,20
+639,Rapunzel's tower,20
+258,a wedding,20
+753,a grocery store,20
+192,a tv show set,20
+719,apartment complex,20
+722,a residential home,20
+508,a police station,20
+762,hamster cage,20
+245,a teacup,20
+648,stage,20
+723,a recording studio,20
+538,a table,20
+129,hospital,20
+742,Art Gallery,20
+763,gas station,20
+148,police prescient,20
+394,a temple,20
+584,at a work location,20
+688,a party,20
+223,laundromat,20
+587,museum,20
+704,elevator,20
+668,castle,20
+667,on the floor,20
+400,a city skyline,20
+121,factory,20
+740,a china shop,20
+3,a call center,20
+675,a party,20
+36,Work,20
+445,a car dealership,20
+25,an art gallery,20
+653,a dinner party,20
+113,a hotel,20
+110,a hospital,20
+561,an empty scene,20
+201,building top,20
+573,the hospital,20
+695,a reservation booth,20
+490,a hospital,20
+709,an elevator,20
+361,a hospital bed,20
+405,a butcher shop,20
+370,a party,20
+700,a pharmacy,20
+636,a construction site,20
+175,nowhere,20
+607,funeral,20
+161,an interview,20
+414,an electronics store,20
+610,a prison,20
+754,a fire station,20
+611,roof,20
+379,a bird's nest,20
+329,museum,20
+729,a royal chamber,20
+229,a senate hearing,20
+367,a funeral home,20
+451,a feed box,20
+717,apartment flat,20
+345,a morgue,20
+567,a mattress,20
+210,a construction site,20
+431,an art gallery,20
+260,a bank,20
+710,a nest,20
+116,a cartoon editor's office,20
+38,a house,20
+568,a party,20
+662,a wedding,20
+149,house,20
+655,auditorium,20
+119,a nursery,20
+126,an art gallery,20
+45,a school,20
+643,A piano recital,20
+621,a tailor,20
+68,a factory,20
+342,a reception window,20
+640,an empty space,20
+26,a stage in a theater,20
+713,a auto repair shop,20
+74,an apartment building,20
+690,an elevator,20
+188,Piano Recital,20
+724,a book signing,20
+1,a research facility,20
+,,
+519,forest,21
+422,a forest,21
+167,the forest,21
+467,a tree,21
+706,a forest,21
+103,a forest,21
+557,the jungle,21
+685,the forest,21
+87,the woods,21
+410,the forest,21
+174,a tree,21
+576,a tree,21
+,,
+619,a corporate office,22
+712,an office building,22
+143,an office building,22
+214,a corporate executive's office,22
+459,an office,22
+138,a business  office,22
+27,work office,22
+32,an office,22
+583,office,22
+563,office,22
+146,work office,22
+47,an office,22
+534,office,22
+465,office,22
+244,office,22
+372,office,22
+425,work office,22
+369,office,22
+228,the sheriff's office,22
+59,office,22
+173,an office building,22
+474,an office,22
+658,a workplace,22
+224,the executive's office,22
+507,office,22
+249,a corporate office,22
+549,an office,22
+513,a workplace,22
+227,an office,22
+318,an office,22
+407,an office space,22
+430,an office,22
+363,an office,22
+550,an office,22
+136,a business office,22
+616,the office,22
+42,an office,22
+498,a corporate office,22
+632,a police office,22
+544,an office desk,22
+73,an office,22
+262,office,22
+95,an office,22
+458,an office building,22
+107,an office,22
+18,an office,22
+77,office,22
+,,
+457,a galley ship,23
+127,a dock,23
+559,a pirate ship,23
+501,a sailboat,23
+566,a ship,23
+339,an airplane,23
+197,airport,23
+334,a passenger airplane,23
+631,airplane,23
+378,ship,23
+109,airplane,23
+748,inside a whale,23
+551,sea,23
+180,at sea,23
+471,ice berg,23
+39,an airplane,23
+600,a UFO,23
