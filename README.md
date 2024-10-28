@@ -1,8 +1,8 @@
- Cartoons in the New Yorker Cartoon Caption Contest are usually funny because of their incongruity—they juxtapose the mundane and the absurd. The mundane element of an illustration often references some recognizable facet of readers' lives, creating a shared sense of identity among readers, who, by submitting captions, show they're in on the joke, writes Philip Smith. 
+Cartoons in the New Yorker Cartoon Caption Contest are usually funny because of their incongruity—they juxtapose the mundane and the absurd. The mundane element of an illustration often references some recognizable facet of readers' lives—creating a shared sense of identity among readers, who, by submitting captions, show they're in on the joke, writes Philip Smith. 
 
-If The New Yorker represents the lives of its readers, then how are its readers represented? 
+If The New Yorker represents the lives of its readers, then how are they represented? 
 For my junior independent work, I used machine learning to explore themes in the New Yorker Cartoon 
-Caption Contest, with focus on identifying the most common settings and characters. 
+Caption Contest, with focus on identifying the most common settings, characters, and incongruities. 
 
 My project had the following components:
 
